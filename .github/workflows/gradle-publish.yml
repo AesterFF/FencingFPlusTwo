@@ -9,7 +9,6 @@ name: Gradle Package
 
 on:
   release: 1.0.0
-    types: JAVA
 
 jobs:
   build:
